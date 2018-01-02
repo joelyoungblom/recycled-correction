@@ -1,0 +1,14 @@
+reconfigure
+
+checkbox
+type of material 1
+specific gravity of material 1
+
+checkbox
+type of material 2
+specific gravity of material 2
+
+checkbox
+type of material 3
+specific gravity of material 3
+
